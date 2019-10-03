@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/ICEBERG_MP",
+    "name": "OpenMageModuleFostering\/ICEBERG_MP",
     "type": "magento-module",
     "license": "MITL",
     "homepage": "",
     "description": "Magento extension to use the izberg marketplace",
     "authors": [
-    {
-        "name": "S\u00e9bastien fieloux",
-        "email": "sebastien.fieloux@gmail.com"
-    }
-],
+        {
+            "name": "S\u00e9bastien fieloux",
+            "email": "sebastien.fieloux@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
